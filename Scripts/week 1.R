@@ -1,6 +1,6 @@
 library(dplyr)
 
-df <- read.csv("hw1_data.csv",header=T)
+df <- read.csv("data/hw1_data.csv",header=T)
 
 names(df)
 
